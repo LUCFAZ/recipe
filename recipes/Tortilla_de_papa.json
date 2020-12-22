@@ -20,12 +20,12 @@
         {
           "number": 1,
           "ingredient_name": "Sal",
-  "ingredient_unit": null,        "ingredient_value": "A gusto"
+  "ingredient_unit": "A gusto",      "ingredient_value": null
         },
         {
           "number": 2,
           "ingredient_name": "Pimienta",
-     "ingredient_unit": null,      "ingredient_value": "A gusto"
+     "ingredient_unit": "A gusto",      "ingredient_value": null
         },
         {
           "number": 3,
